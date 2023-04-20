@@ -120,9 +120,9 @@ CREATE TABLE `receivers` (
 --
 
 INSERT INTO `receivers` (`id`, `rname`, `remail`, `rpassword`, `rphone`, `rbg`, `rcity`) VALUES
-(1, 'Vinoth', 'vinoth@gmail.com', 'vinoth@123', '9178234217', 'A-', 'Trichy'),
-(2, 'Joshua', 'joshua@gmail.com', 'joshua@123', '7256300185', 'O-', 'Thiruvallur'),
-(3, 'Hari', 'hari@gmail.com', 'hari@123', '9174568052', 'B+', 'Madurai');
+(1, 'Janav', 'janav@gmail.com', 'janav@123', '739589866x', 'A-', 'Trichy'),
+(2, 'Dinesh', 'dinesh@gmail.com', 'dinesh@123', '7256300185', 'O-', 'Thiruvallur'),
+(3, 'Barath', 'barath@gmail.com', 'barath@123', '9174568052', 'B+', 'Madurai');
 
 --
 -- Indexes for dumped tables
